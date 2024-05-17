@@ -1,0 +1,12 @@
+.seccion_perfil{
+    border-radius: 50px;
+    border: 3px solid black;
+}
+.foto_perfil{
+    border-radius: 50%; 
+    width: 200px; 
+    height: 200px;
+}
+div *{
+  padding-top: 200px;
+}
