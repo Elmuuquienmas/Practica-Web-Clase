@@ -4,9 +4,26 @@
 }
 .foto_perfil{
     border-radius: 50%; 
-    width: 200px; 
-    height: 200px;
+    width: 400px; 
+    height: 400px;
+    margin-left: 550px;
+    margin-right: 550px;
+
 }
-div *{
-  padding-top: 200px;
+.contenedor{
+  display: flex;
+}
+.contenedor h2{
+  margin-left: 50px;
+  justify-content: center;
+}
+.contenedor p{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.text{
+  font-size: 25px;
+}
+.titulo{
+  font-size: 40px;
 }
